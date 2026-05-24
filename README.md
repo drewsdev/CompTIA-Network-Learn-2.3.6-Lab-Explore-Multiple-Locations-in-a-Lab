@@ -42,8 +42,8 @@ Complete this lab as follows:
  b. Under Shelf, expand Cables.  
  c. Select the Networking Cable.  
  d. From the Selected Component pane:  
-  * Drag an RJ45 Connector to the built-in port or the port on the PCIe network card.  
-  * Drag the unconnected RJ45 Connector to the network port on the wall plate (the left port).  
+   * Drag an RJ45 Connector to the built-in port or the port on the PCIe network card.  
+   * Drag the unconnected RJ45 Connector to the network port on the wall plate (the left port).  
 4. Turn the computer on and test for network and internet connectivity.  
  a. Above the computer, select Front.  
  b. Select the power button on the computer.  
